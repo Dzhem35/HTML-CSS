@@ -1,2 +1,2 @@
 # HTML-CSS
-www.bratko.1apps.com
+http://bratko.1apps.com/
